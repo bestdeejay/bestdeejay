@@ -11,7 +11,9 @@
     <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
   </picture>
 </a>
+
 </div>
+
 ---
 
 [![AXIIOM](https://img.shields.io/badge/AXIIOM-CEO-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axiiom.ru)
