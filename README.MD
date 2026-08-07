@@ -1,4 +1,5 @@
-<div align="center" style="max-width: 2160px; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:81D8D0,100:F64A8A&text=Sergey%20Kuzyukov&desc=Founder%20LOVII&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=24&descAlignY=60)
 
