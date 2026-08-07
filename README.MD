@@ -4,8 +4,8 @@
 
 <a href="https://lovii.ru" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://lovii.ru/img/logos/lovii-logo_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://lovii.ru/img/logos/lovii-logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/logos/lovii-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="img/logos/lovii-logo.svg">
     <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
   </picture>
 </a>
