@@ -36,6 +36,11 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+[![Vibe coded](https://img.shields.io/badge/Vibe_Coded-...)](https://github.com/danielrosehill/Vibe-Coded-Icons)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Crafted with AI](https://img.shields.io/badge/Crafted_with_AI-...)
+
+
 ---
 
 ## Positioning
