@@ -48,13 +48,13 @@ Led teams of up to 80 people; built engineering and product processes from scrat
 
 ## Track record
 
-| | |
-|:---|:---|
-| Scaled an IT company **5 → 45 engineers**, grew **8** team leads — IT-Park / Digital Lab (2018–2025) | |
-| Raised project financing from **Sberbank — ₽2.8B and ₽4.1B (twice)** for a major banking project; owned the full path from first call to the bank's commercial offer | |
-| Built a **fintech loyalty operator + B2B marketplace from zero** (AXIIOM) with full CB RF compliance | |
-| Founded **MOBIADS** — first dynamic modular mobile ad network in Russia; Runet Prize 2011 nominee; business acquired | |
-| Led carrier subscription products — **150k+ subscribers**, team 60+ (ZED / Beeline.Kiosk) | |
+| Achievement |
+|:---|
+| Scaled an IT company **5 → 45 engineers**, grew **8** team leads — IT-Park / Digital Lab (2018–2025) |
+| Raised project financing from **Sberbank — ₽2.8B and ₽4.1B (twice)** for a major banking project; owned the full path from first call to the bank's commercial offer |
+| Built a **fintech loyalty operator + B2B marketplace from zero** (AXIIOM) with full CB RF compliance |
+| Founded **MOBIADS** — first dynamic modular mobile ad network in Russia; Runet Prize 2011 nominee; business acquired |
+| Led carrier subscription products — **150k+ subscribers**, team 60+ (ZED / Beeline.Kiosk) |
 
 ---
 
