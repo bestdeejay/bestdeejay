@@ -102,6 +102,13 @@ Built the country's first dynamic modular mobile ad network (REST API, SDK); mob
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bestdeejay-design&theme=github_dark&animation=draw&utcOffset=0)](https://github-profile-summary-cards.vercel.app)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bestdeejay-design&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdeejay-design&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+---
 
 ## Open to & Contact
 
