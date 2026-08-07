@@ -9,7 +9,9 @@
     <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
   </picture>
 </a>
+
 ---
+
 [![AXIIOM](https://img.shields.io/badge/AXIIOM-CEO-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axiiom.ru)
 [![LOVII](https://img.shields.io/badge/LOVII-FOUNDER-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lovii.ru)
 
