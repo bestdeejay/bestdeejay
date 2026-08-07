@@ -104,10 +104,10 @@ Built the country's first dynamic modular mobile ad network (REST API, SDK); mob
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bestdeejay-design&show_icons=true&theme=github_dark&hide_border=true" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=bestdeejay&show_icons=true&theme=github_dark&hide_border=true" width="400" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdeejay-design&layout=compact&theme=github_dark&hide_border=true" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestdeejay&layout=compact&theme=github_dark&hide_border=true" width="400" />
     </td>
   </tr>
 </table>
