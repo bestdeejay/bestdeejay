@@ -99,6 +99,7 @@ Launched a loyalty-points operator + B2B marketplace on event-driven microservic
 Built the country's first dynamic modular mobile ad network (REST API, SDK); mobtop.ru — Runet Prize 2011 nominee; business acquired.
 
 ---
+<div align="center" style="max-width: 2160px; margin: 0 auto;">
 
 ## GitHub Activity
 
@@ -109,6 +110,8 @@ Built the country's first dynamic modular mobile ad network (REST API, SDK); mob
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bestdeejay-design&theme=github_dark&animation=draw)](https://github-profile-summary-cards.vercel.app)
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bestdeejay-design&theme=github_dark&animation=draw&utcOffset=0)](https://github-profile-summary-cards.vercel.app)
+
+</div>
 
 ---
 
