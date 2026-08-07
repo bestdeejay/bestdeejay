@@ -42,18 +42,31 @@
 ![AI-Driven](https://img.shields.io/badge/AI_Driven-Development-D4A574?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
 
+### 🧠 Foundation Models
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=grok&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-FF6A00?style=for-the-badge&logo=qwen&logoColor=white)
-![Hy3](https://img.shields.io/badge/Hy3-0052D9?style=for-the-badge&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/code)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛠️ Local & Dev Tools
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1F1F1F?style=for-the-badge&logo=perplexity&logoColor=white)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/code)
+
+### 🌍 Open Source & Ecosystem
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-FFD700?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1F1F1F?style=for-the-badge&logo=perplexity&logoColor=white)
 ![MiniMax](https://img.shields.io/badge/MiniMax-E73562?style=for-the-badge&logoColor=white)
+![Hy3](https://img.shields.io/badge/Hy3-0052D9?style=for-the-badge&logoColor=white)
 
 ![Crafted with AI](https://img.shields.io/badge/Crafted_with_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 [![Made with AI](https://img.shields.io/badge/Made%20with-AI-lightgrey?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
