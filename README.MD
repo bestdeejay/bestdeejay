@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=D4A574&center=true&vCenter=true&width=700&lines=CEO+%26+CDTO+%26+CTO+%26+CPO;FinTech+Architect+%26+Banking;20%2B+years+in+IT;Digital+transformation+end-to-end;Building+from+zero)](https://git.io/typing-svg)
 
 <p align="center">
-
+<picture>
 <a href="https://lovii.ru" target="_blank">
     <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg">
     <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
 </a>
-
+</picture>
 </p>
 
 ---
