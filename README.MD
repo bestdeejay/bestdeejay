@@ -7,8 +7,8 @@
 <p align="center">
 <a href="https://lovii.ru" target="_blank">
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg" align="center">
+    <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg" align="center">
     <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
   </picture>
 </a>
