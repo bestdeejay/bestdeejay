@@ -6,8 +6,15 @@
 
 **Founder / CDTO / IT-Director / CTO / CPO** · 20+ years in IT · St. Petersburg, Russia
 
+<a href="https://lovii.ru" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lovii.ru/img/logos/lovii-logo_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://lovii.ru/img/logos/lovii-logo.svg">
+    <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
+  </picture>
+</a>
+
 [![AXIIOM](https://img.shields.io/badge/AXIIOM-CEO-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axiiom.ru)
-![LOVII Logo](https://lovii.ru/img/logos/lovii-logo.svg) 
 [![LOVII](https://img.shields.io/badge/LOVII-FOUNDER-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lovii.ru)
 [![Email](https://img.shields.io/badge/Email-bestdeejay@ya.ru-D4A574?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bestdeejay@ya.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@bestdeejay-D4A574?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bestdeejay)
