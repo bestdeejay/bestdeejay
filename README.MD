@@ -9,7 +9,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg">
-    <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo">
+    <img src="https://lovii.ru/img/logos/lovii-logo.svg" alt="LOVII Logo" style="display: block; margin: 0 auto;">
   </picture>
 </a>
 </p>
