@@ -36,12 +36,20 @@
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1F1F1F?style=for-the-badge&logo=perplexity&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MiniMax](https://img.shields.io/badge/MiniMax-E73562?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTQgMTBoNCIvPjxwYXRoIGQ9Ik02IDd2NiIvPjxwYXRoIGQ9Ik0xMCAzaDkiLz48cGF0aCBkPSJNMTUgM3YxOCIvPjxwYXRoIGQ9Ik0xMCAxN2g0Ii8+PC9zdmc+&logoColor=white)
+
+![Crafted with AI](https://img.shields.io/badge/Crafted_with_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+[![Made with AI](https://img.shields.io/badge/Made%20with-AI-lightgrey?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/code)
+![AI-Driven](https://img.shields.io/badge/AI_Driven-Development-D4A574?style=for-the-badge)
 
 
 ---
