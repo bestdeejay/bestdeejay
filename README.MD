@@ -16,6 +16,20 @@
 
 ---
 
+<!-- ЛОГОТИП ПО ЦЕНТРУ (ГАРАНТИРОВАННО РАБОТАЕТ) -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://lovii.ru" target="_blank">
+        <img src="img/lovii-logo.svg#gh-light-mode-only" alt="LOVII Logo" style="max-width: 200px;">
+        <img src="img/lovii-logo-dark.svg#gh-dark-mode-only" alt="LOVII Logo" style="max-width: 200px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 [![AXIIOM](https://img.shields.io/badge/AXIIOM-CEO-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axiiom.ru)
 [![LOVII](https://img.shields.io/badge/LOVII-FOUNDER-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lovii.ru)
 
