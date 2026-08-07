@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:81D8D0,100:F64A8A&text=Sergey%20Kuzyukov&desc=Founder%20LOVII&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=24&descAlignY=60)
 
-# BEST private repo only
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=D4A574&center=true&vCenter=true&width=700&lines=CEO+%26+CDTO;Fintech+Architect;20%2B+years+in+IT;Building+from+zero)](https://git.io/typing-svg)
 
-**Founder / CDTO / IT-Director / CTO / CPO** · 20+ years in IT · St. Petersburg, Russia
 
 <a href="https://lovii.ru" target="_blank">
   <picture>
@@ -14,12 +11,10 @@
   </picture>
 </a>
 
+
 [![AXIIOM](https://img.shields.io/badge/AXIIOM-CEO-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://axiiom.ru)
 [![LOVII](https://img.shields.io/badge/LOVII-FOUNDER-D4A574?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lovii.ru)
-[![Email](https://img.shields.io/badge/Email-bestdeejay@ya.ru-D4A574?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bestdeejay@ya.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-@bestdeejay-D4A574?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bestdeejay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bestdeejay-D4A574?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bestdeejay)
-[![Phone](https://img.shields.io/badge/Phone-%2B7%20(911)%20928--74--78-D4A574?style=for-the-badge&logo=phone&logoColor=white)](tel:+79119287478)
+**Founder / CDTO / IT-Director / CTO / CPO** · 20+ years in IT · St. Petersburg, Russia
 
 ---
 
@@ -132,6 +127,7 @@ I'm open to **CDTO / IT-Director / CTO / CPO** roles — full-time or project-ba
 [![Telegram](https://img.shields.io/badge/Telegram-@bestdeejay-D4A574?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bestdeejay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bestdeejay-D4A574?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bestdeejay)
 [![Phone](https://img.shields.io/badge/Phone-%2B7%20(911)%20928--74--78-D4A574?style=for-the-badge&logo=phone&logoColor=white)](tel:+79119287478)
+
 
 St. Petersburg, Russia
 
