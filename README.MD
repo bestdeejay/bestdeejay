@@ -8,7 +8,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg">
-    <img src="img/lovii-logo.svg" alt="LOVII Logo" width="600">
+    <img src="img/lovii-logo.svg" alt="LOVII Logo" width="400">
   </picture>
 </a>
 </p>
