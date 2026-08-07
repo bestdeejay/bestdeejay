@@ -20,7 +20,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg">
-      <img src="img/lovii-logo.svg" alt="LOVII Logo" style="width: 600px; margin-left: 10%;">
+      <img src="img/lovii-logo.svg" alt="LOVII Logo">
     </picture>
   </a>
 </p>
