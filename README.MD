@@ -18,8 +18,11 @@
 
 <p align="center">
   <a href="https://lovii.ru" target="_blank">
-    <img src="img/lovii-logo.svg#gh-light-mode-only" alt="LOVII Logo" width="200">
-    <img src="img/lovii-logo-dark.svg#gh-dark-mode-only" alt="LOVII Logo" width="200">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="img/lovii-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="img/lovii-logo.svg">
+      <img src="img/lovii-logo.svg" alt="LOVII Logo" width="200">
+    </picture>
   </a>
 </p>
 
